@@ -1,0 +1,224 @@
+!PIC01
+GRAPHICS - MARVEL
+MUSIC - SKAVEN
+CODE - JACKMACWINDOWS
+
+!PIC02
+GRAPHICS - MARVEL
+MUSIC - SKAVEN
+CODE - JACKMACWINDOWS
+OBJECTS - WILDFIRE
+
+!PIC03
+GRAPHICS - MARVEL
+MUSIC - SKAVEN
+CODE - JACKMACWINDOWS
+ANIMATION - TRUG
+
+!PIC04
+GRAPHICS - PIXEL
+
+!PIC05
+MUSIC - PURPLE MOTION
+CODE - JACKMACWINDOWS
+ENGINE - XELLA
+
+!PIC05B
+MUSIC - PURPLE MOTION
+CODE - JACKMACWINDOWS
+
+!PIC06
+MUSIC - PURPLE MOTION
+CODE - JACKMACWINDOWS
+
+!PIC07
+MUSIC - PURPLE MOTION
+CODE - JACKMACWINDOWS
+
+!PIC08
+GRAPHICS - PIXEL
+MUSIC - PURPLE MOTION
+
+!PIC09
+GRAPHICS - PIXEL
+MUSIC - PURPLE MOTION
+CODE - JACKMACWINDOWS
+RENDERING - TRUG
+
+!PIC10
+SKETCH - SKAVEN
+GRAPHICS - PIXEL
+MUSIC - PURPLE MOTION
+CODE - JACKMACWINDOWS
+
+!PIC10B
+SKETCH - SKAVEN
+GRAPHICS - PIXEL
+MUSIC - PURPLE MOTION
+CODE - JACKMACWINDOWS
+
+!PIC11
+MUSIC - PURPLE MOTION
+CODE - JACKMACWINDOWS
+
+!PIC12
+MUSIC - PURPLE MOTION
+CODE - JACKMACWINDOWS
+ENGINE - XELLA
+
+!PIC13
+MUSIC - PURPLE MOTION
+CODE - JACKMACWINDOWS
+
+!PIC14
+GRAPHICS - PIXEL
+MUSIC - PURPLE MOTION
+CODE - JACKMACWINDOWS
+RENDERING - TRUG
+
+!PIC14B
+MUSIC - PURPLE MOTION
+CODE - PSI
+PORT - JACKMACWINDOWS
+
+!PIC15
+GRAPHICS - MARVEL
+MUSIC - PURPLE MOTION
+CODE - JACKMACWINDOWS
+
+!PIC16
+MUSIC - SKAVEN
+CODE - JACKMACWINDOWS
+WORLD - TRUG
+ENGINE - XELLA
+
+!PIC17
+GRAPHICS - PIXEL
+MUSIC - SKAVEN
+
+!PIC18
+GRAPHICS - PIXEL
+MUSIC - SKAVEN
+CODE - JACKMACWINDOWS
+
+!SCROLL
+S e c o n d  R e a l i t y
+
+Copyright (C) 1993 by
+the Future Crew, 2025-2026
+by JackMacWindows.
+
+This demo won the Assembly'93
+annual international demo
+competition held in Finland,
+summer 1993.
+
+Ported to ComputerCraft
+by JackMacWindows in 2026.
+
+This is a port I've wanted
+to do for a long time, and
+now it's finally complete.
+
+Squeezing everything into
+16 colors was a challenge,
+but I think it turned out
+great in the end.
+
+Huge thanks to Xella for
+making Pine3D, and to 9551
+for writing Pixelbox - this
+demo would not have been
+possible without either one.
+
+Greetings to those who are
+interested in making the
+nascent CC demoscene a
+R e a l i t y:
+
+mueller-minki
+nonogamer9
+piguman3
+qrmcat
+
+And to those who work to make
+ComputerCraft a better place
+for everyone:
+
+alexdevs
+fatboychummy
+sovenance
+
+squiddev
+linearnoodle (Leveloper)
+sammmy-echt
+sashafiesta
+siredvin
+srendi
+techtastic
+tiktop101 (tom)
+
+afonya.9610
+cyanideflavoraid
+cyberbit
+dimaguy
+emmaknijn
+hexell-dev
+jig487
+migeyel
+nyorie
+ocawesome101
+shadyduck
+shlomofi050-98163
+shrekshellraiser
+umnikos
+viluon
+wojbie
+lemmmy
+
+ascpial
+atomic-codes
+aybri
+awesomebossdj7
+ckupen
+crimssoon
+duke-abigor
+edujime23
+elnico56
+.fiaru
+frityet
+graypinkfurball
+hellscaped
+herrkatze0658
+ictoan42
+jasons05
+.jozekk
+kinggreen
+level-yz
+lupus590
+minerobber
+mthedoodler
+patriik
+qwertyu-enthusiast
+ralphgod3
+redtoastneedsbutter
+sammypants37
+sethgamer1223
+soupster9633
+sure-man
+swoshswosh-01578 (SpSf)
+tehgreatdoge
+timas-gvozd
+tizu.dev
+xylopia
+
+
+
+
+
+
+
+
+Thank you for experiencing
+
+S e c o n d  R e a l i t y
