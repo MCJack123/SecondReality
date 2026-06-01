@@ -269,7 +269,7 @@ local old = term.redirect(scrollwin)
 postDrawLines()
 term.redirect(old)
 scrollwin.setVisible(true)
-for y = h / 3, -math.ceil(#lines * ((w < 300 or h < 100) and 1 or 15) / 3), -1 do
+for y = h / 3, -math.ceil(#lines * ((w < 300 or h < 100) and 3 or 15) / 3), -1 do
     scrollwin.reposition(1, y)
     sleep(0.05 * (h / 50) * (pendingLines and 15 or 1))
 end
