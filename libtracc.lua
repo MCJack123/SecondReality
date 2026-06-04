@@ -219,7 +219,7 @@ end
 local function toFreq(state, note, finetune)
     if state.module.amigaSlides then
         local a = ((note % 12)*8 + math.floor(finetune/16)) % 96
-        return (state.type == "xm" and 14317456 or 14187580)/((amigaTable[a]*(1-(finetune/16 % 1)) + amigaTable[a+1]*((finetune/16 % 1))) * 16 / 2^math.floor(note / 12 - 1))
+        return 14317456/((amigaTable[a]*(1-(finetune/16 % 1)) + amigaTable[a+1]*((finetune/16 % 1))) * 16 / 2^math.floor(note / 12 - 1))
     else return 8363*2^((6*12*16*4 - (10*12*16*4 - (note-1)*16*4 - math.floor(finetune/2))) / (12*16*4)) end
 end
 ---@param state tracc
